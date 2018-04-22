@@ -1,17 +1,32 @@
-.titulo{
-	padding-right: 30px;
-	padding-left: 30px;
-	margin: 0px 20px 0px 35px;
-	background-color: red;
-	color: white;
-	font-size: 30px;
-}
 
-.izquierda{
-    width: 50%;
-    float: left;
+#titulos{
+	text-align: center;
+	color: #00eeff;
+	background-position: center;
+	background-color: black;
+	padding-bottom: 20px;
+	padding-top: 20px;
 }
-.derecha{
-    width: 50%;
-    float: right;
+#der{
+	float: right;
 }
+#izq{
+	float: left;
+}
+.titulo{
+	background-position: center;
+	text-align: center;
+}
+.youtube {
+   text-align: center;
+   line-height: 0px;
+ }
+ .youtube iframe {
+   width: 560px;
+   height: 315px;
+ }
+ .imagen{
+ 	/*float: right;*/
+	display:block;
+	margin:auto;
+ }
