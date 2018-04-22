@@ -7,7 +7,11 @@
 	font-size: 30px;
 }
 
-.conclusion{
+.izquierda{
     width: 50%;
     float: left;
+}
+.derecha{
+    width: 50%;
+    float: right;
 }
